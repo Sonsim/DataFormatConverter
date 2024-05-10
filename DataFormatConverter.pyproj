@@ -32,10 +32,13 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Static\" />
+    <Folder Include="Static\CSS\" />
     <Folder Include="tmp\" />
     <Folder Include="Templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Static\CSS\style.css" />
     <Content Include="Templates\index.html" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />

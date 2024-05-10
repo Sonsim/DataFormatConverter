@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Static\\CSS\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|solutionrelative:Static\\CSS\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31BF1FB0-88AA-4591-B8BE-AF1E29A6ED26}|DataFormatConverter.pyproj|solutionrelative:Templates\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 72,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,55 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Static\\CSS\\style.css",
+              "RelativeDocumentMoniker": "Static\\CSS\\style.css",
+              "ToolTip": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Static\\CSS\\style.css",
+              "RelativeToolTip": "Static\\CSS\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-10T08:30:21.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Templates\\index.html",
+              "RelativeDocumentMoniker": "Templates\\index.html",
+              "ToolTip": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\Templates\\index.html",
+              "RelativeToolTip": "Templates\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-10T07:35:49.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\Users\\sondr\\Desktop\\Egne kodeprosjekter\\DataFormatConverter\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-10T07:35:47.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
