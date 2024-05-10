@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Data format Converter</title>
+</head>
+<body>
+	<h1>Convert JSON and CSV Files</h1>
+
+	<form action="/convertcsv" method="POST" enctype="multipart/form-data">
+		<label for="csvinput">CSV file</label>
+		<input type="file" name="file" accept=".csv" id="csvinput">
+		<input type="submit" value="Upload">
+	</form>
+		<form action="/convertjson" enctype="multipart/form-data" method="POST" id="jsonform">
+			<label for="jsonfile">JSON file</label>
+			<input id="jsonfile" name="jsonfile" type="file" accept=".json"/>
+			<input type="submit" value="Upload"/>
+		</form>
+		
+</body>
+</html>
