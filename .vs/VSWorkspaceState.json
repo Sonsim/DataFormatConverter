@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Static",
+    "\\Static\\CSS"
   ],
-  "SelectedNode": "\\DataFormatConverter.sln",
+  "SelectedNode": "\\app.py",
   "PreviewInSolutionExplorer": false
 }

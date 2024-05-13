@@ -1,3 +1,32 @@
 body
 {
+   height: 100%;
+   width: 100%;
+   align-content: center;
+}
+.container {
+    margin: auto;
+    text-align: center;
+    border: solid 1px black;
+    height: 500px;
+    width: 450px;
+    
+}
+.form {
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-content: center;
+   
+}
+.button {
+    width: 95px;
+    align-self: center;
+    border: solid 1px black;
+    background-color: lightgray;
+    margin: 5px;
+    cursor: pointer;
+}
+input[type="file"]{
+    display: none;
 }
